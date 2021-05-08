@@ -1,5 +1,5 @@
 # Java-Based-WebServices-Framework
-It is a Java based framework. Using this framework, the user can create backend/serverside services for web-applications. User no need to write the entire web.xml, and this framework also creates the JS file automatically.This framework help user to create web-application very easily and fastly.
+It is a Java based framework. Using this framework, the user can create backend/server-side services for web-applications. User no need to write the entire web.xml, and this framework also creates the JS file automatically.This framework help user to create web-application very easily and quickly.
 
 
 # Benifits of using this FrameWork:
